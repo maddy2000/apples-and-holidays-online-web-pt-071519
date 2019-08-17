@@ -83,8 +83,8 @@ def all_holidays_with_bbq(holiday_hash)
   # include the string "BBQ"
   binding.pry
     holiday_hash.each do |holiday, season|
-      
-    puts holiday_hash
+       binding.pry
+    #puts holiday_hash
 
 end
 end
