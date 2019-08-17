@@ -72,7 +72,7 @@ def all_supplies_in_holidays(holiday_hash)
   #binding.pry
   #hash = ["holiday_hash"]
     holiday_hash. each do |key|
-      
+      binding.pry
     
 end
 end
